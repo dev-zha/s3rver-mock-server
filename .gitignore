@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+
+# Storage Path of S3 Data
+/s3-mock-data
